@@ -5,6 +5,9 @@
 //  Created by Frank Murray on 04/ 12/20.
 //
 
+
+// uses dynamic pointers and array, passsed to a function to return values;
+
 #include <iostream>
 using namespace std;
 
